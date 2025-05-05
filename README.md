@@ -21,3 +21,12 @@ API 서버는 3개로 구성하여 요청을 처리한다.
 ### 내용: 
 정해진 시간에 주기적으로 Job1와 Job2를 실행시킨다.  
 Quatz 오픈 소스를 활용한다.
+
+# 프로세스 흐픔도
+![image](https://github.com/user-attachments/assets/2ae38e5b-bc39-46cd-961b-1016c145e335)
+
+# JobStep 상세
+![image](https://github.com/user-attachments/assets/accf6aa3-9c07-4f8e-9af7-b7e01d53d9e8)
+
+# ApiSlaveStep 상세
+![image](https://github.com/user-attachments/assets/d960d37a-2e6f-47fc-95c1-d36dad03de76)
