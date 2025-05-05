@@ -1,0 +1,1 @@
+ApiRequestVO(id=3, productVO=ProductVO(id=3, name=item3, price=3000, type=3), apiResponseVO=ApiResponseVO(status=200, message=apiService3 success))
