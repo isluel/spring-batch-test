@@ -15,9 +15,4 @@ public class ApiInfo {
 
     @Builder.Default
     private List<ApiRequestVO> apiRequestList = new ArrayList<>();
-
-    // 강제 getter (테스트용)
-    public List<ApiRequestVO> getApiRequestList() {
-        return apiRequestList;
-    }
 }

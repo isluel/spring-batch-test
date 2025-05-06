@@ -1,5 +1,6 @@
 package com.isluel.springbatch.apiservice.domain;
 
+import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 
@@ -8,10 +9,5 @@ import lombok.Data;
 public class ApiRequestVO {
     private long id;
 
-    @Builder.Default
     private ProductVO productVO;
-
-    public ProductVO getProductVO() {
-        return this.productVO;
-    }
 }
